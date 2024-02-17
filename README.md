@@ -5,7 +5,7 @@ I'm Prima Maulana, a student majoring in Informatics at the Universitas Pembangu
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="#"><img align="left" alt="C++" title="C++" width="21px" src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" /></a>
-  <a href="#"><img align="left" alt="React" title="React" width="21px" src="https://seeklogo.com/images/P/PHP-logo-0B2FDC4529-seeklogo.com.png" /></a>
+  <a href="#"><img align="left" alt="PHP" title="PHP" width="21px" src="https://seeklogo.com/images/P/php-logo-DC4A01DBB6-seeklogo.com.png" /></a>
   <br>
   <br>
 
